@@ -1,3 +1,3 @@
 # hospital_hmsol
 
-HMS+L Back End Source Code
+HMS+L Hospital Front End Source Code
